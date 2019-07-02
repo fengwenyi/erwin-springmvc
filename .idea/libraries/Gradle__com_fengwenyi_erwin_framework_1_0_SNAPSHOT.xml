@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fengwenyi:erwin-framework:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/erwin-springmvc-simple/Could not find com.fengwenyi:erwin-framework:1.0-SNAPSHOT." />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fengwenyi/erwin-framework/1.0-SNAPSHOT/erwin-framework-1.0-20190702.191747-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

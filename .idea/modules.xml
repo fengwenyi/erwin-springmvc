@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/erwin-framework.iml" filepath="$PROJECT_DIR$/.idea/modules/erwin-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/erwin-framework.main.iml" filepath="$PROJECT_DIR$/.idea/modules/erwin-framework.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/erwin-framework.test.iml" filepath="$PROJECT_DIR$/.idea/modules/erwin-framework.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/erwin-springmvc-simple.iml" filepath="$PROJECT_DIR$/.idea/modules/erwin-springmvc-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/erwin-springmvc-simple.main.iml" filepath="$PROJECT_DIR$/.idea/modules/erwin-springmvc-simple.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/erwin-springmvc-simple.test.iml" filepath="$PROJECT_DIR$/.idea/modules/erwin-springmvc-simple.test.iml" />
+    </modules>
+  </component>
+</project>

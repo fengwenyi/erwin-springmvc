@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="erwin-framework.main" target="1.8" />
+      <module name="erwin-framework.test" target="1.8" />
+      <module name="erwin-springmvc-simple.main" target="1.8" />
+      <module name="erwin-springmvc-simple.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : com.fengwenyi : erwin-springmvc-simple-1.0-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/erwin-springmvc-simple/build/libs/exploded/erwin-springmvc-simple-1.0-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/erwin-springmvc-simple">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/erwin-springmvc-simple/build/libs/exploded/erwin-springmvc-simple-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="erwin-springmvc-simple.main/web/Web Gradle : erwin-springmvc-simple-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="erwin-springmvc-simple.main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/erwin-springmvc-simple/build/resources/main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/fengwenyi/erwin-framework/1.0-SNAPSHOT/erwin-framework-1.0-20190702.191747-1.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
